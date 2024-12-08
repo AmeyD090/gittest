@@ -1,5 +1,2 @@
-print"hello wolrd"
-print"my git"
-print "practice"
-return print
+print("DEADPOOL & WOLVERIN")
 
